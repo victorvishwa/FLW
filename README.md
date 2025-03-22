@@ -15,7 +15,14 @@ FLW is a **freelancing website** designed to connect clients with skilled profes
 ## 🚀 Live Demo  
 Check out the live site here: **[FLW](https://victorvishwa.github.io/FLW/)**  
 
-## 📸 Screenshots 
+## 📸 Screenshots  
+
+### 🖼️ Homepage  
+![Homepage](https://github.com/victorvishwa/FLW/blob/main/Screenshot%202025-03-22%20113345.png)
+
+### Service 
+![service](https://github.com/victorvishwa/FLW/blob/main/Screenshot%202025-03-22%20113402.png)
+ 
 
 
 
