@@ -27,4 +27,4 @@ Check out the live site here: **[FLW](https://victorvishwa.github.io/FLW/)**
 
 
 ## 📩 Contact  
-For inquiries or collaboration, reach out at **[Your Email]**
+For inquiries or collaboration, reach out at **b.vishwa0786@gmail.com**
